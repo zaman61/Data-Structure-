@@ -1,2 +1,1 @@
-# arrays
-arrays 2024
+Practice Questions on Data structure
